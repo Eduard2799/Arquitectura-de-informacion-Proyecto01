@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/footer-view.js": "components/footer-view.js",
+    "components/header-view.js": "components/header-view.js",
+    "pages/index.js": "pages/index.js",
+    "pages/pelicula/_slug.js": "pages/pelicula/_slug.js",
+    "pages/peliculas_index.js": "pages/peliculas_index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/footer-view.js": "components/footer-view.js.map",
+    "components/header-view.js": "components/header-view.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/pelicula/_slug.js": "pages/pelicula/_slug.js.map",
+    "pages/peliculas_index.js": "pages/peliculas_index.js.map",
+    "server.js": "server.js.map"
+  }
+}

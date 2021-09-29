@@ -1,6 +1,6 @@
 ---
 id: author_1
-name: Abraham Silberschatz
+name: Anabele
 nationality: Israelis / American
 launch_year: 1952
 times:

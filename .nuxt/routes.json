@@ -1,0 +1,23 @@
+[
+  {
+    "name": "peliculas_index",
+    "path": "/peliculas_index",
+    "component": "D:\\\\Documentos\\\\Licenciatura\\\\II semestre\\\\Arquitectura\\\\Proyecto 01\\\\pages\\\\peliculas_index.vue",
+    "chunkName": "pages/peliculas_index",
+    "_name": "_1eece258"
+  },
+  {
+    "name": "pelicula-slug",
+    "path": "/pelicula/:slug?",
+    "component": "D:\\\\Documentos\\\\Licenciatura\\\\II semestre\\\\Arquitectura\\\\Proyecto 01\\\\pages\\\\pelicula\\\\_slug.vue",
+    "chunkName": "pages/pelicula/_slug",
+    "_name": "_40644348"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Documentos\\\\Licenciatura\\\\II semestre\\\\Arquitectura\\\\Proyecto 01\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3bd3571d"
+  }
+]
