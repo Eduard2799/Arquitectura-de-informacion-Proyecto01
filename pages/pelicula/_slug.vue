@@ -17,9 +17,9 @@
      </div>
      <div class="six columns">
        <h4>{{pelicula.name}}</h4>
-	   Nationality: {{pelicula.nationality}}; Launch: {{pelicula.launch_year}}</br>
-	   Times: {{pelicula.times}}</br></br>
-	   <b>Biography</b></br>
+	   Nationality: {{pelicula.nationality}}; Launch: {{pelicula.launch_year}}<br>
+	   Times: {{pelicula.times}}<br><br>
+	   <b>Biography</b><br>
 	    <nuxt-content :document="pelicula" />
 	 </div>
 	 <!-- <div class="three columns"></div>

@@ -86,12 +86,12 @@ var component = Object(componentNormalizer["a" /* default */])(
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/pelicula/_slug.vue?vue&type=template&id=f222f10c&
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/pelicula/_slug.vue?vue&type=template&id=eee79e14&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"container"},[_c('HeaderView'),_vm._ssrNode(" "),_vm._ssrNode("<div class=\"row\">","</div>",[_vm._ssrNode("<div class=\"three columns\"><img"+(_vm._ssrAttr("src",'/images/'+_vm.pelicula.image))+" alt=\"Italian Trulli\" class=\"u-max-full-width\"></div> "),_vm._ssrNode("<div class=\"six columns\">","</div>",[_vm._ssrNode("<h4>"+_vm._ssrEscape(_vm._s(_vm.pelicula.name))+"</h4>"+_vm._ssrEscape("\n\t   Nationality: "+_vm._s(_vm.pelicula.nationality)+"; Launch: "+_vm._s(_vm.pelicula.launch_year))+"<br>"+_vm._ssrEscape("\n\t   Times: "+_vm._s(_vm.pelicula.times))+"<br><br> <b>Biography</b><br> "),_c('nuxt-content',{attrs:{"document":_vm.pelicula}})],2),_vm._ssrNode(" "),_c('FooterView')],2)],2)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./pages/pelicula/_slug.vue?vue&type=template&id=f222f10c&
+// CONCATENATED MODULE: ./pages/pelicula/_slug.vue?vue&type=template&id=eee79e14&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/pelicula/_slug.vue?vue&type=script&lang=js&
 /* harmony default export */ var _slugvue_type_script_lang_js_ = ({
