@@ -20,7 +20,7 @@
        <h4>{{pelicula.title}}</h4>
 	   by <NuxtLink :to="'/directores/'+pelicula.directorId">{{director[0].name}}</NuxtLink><br>
 	   Year: {{pelicula.year}}; Duration: {{pelicula.duration}}; 
-	   Language: {{pelicula.language}}; Pages: {{pelicula.pages}}<br>
+	   Language: {{pelicula.language}};<br>
 	   published by <NuxtLink :to="'/productoras/'+pelicula.productoraId">{{productora[0].name}}</NuxtLink><br><br>
 	   <b>Description</b><br>
 	    <nuxt-content :document="pelicula" />

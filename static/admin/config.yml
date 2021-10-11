@@ -44,7 +44,6 @@ collections:
       - {label: "Year", name: "year", widget: "number"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Language", name: "language", widget: "string"}
-      - {label: "Pages", name: "pages", widget: "number"}
       - {label: "director", name: "directorId", widget: "relation",
           collection: "directores", search_fields: ["name"], value_field: "id",
           display_fields: ["name"]}
