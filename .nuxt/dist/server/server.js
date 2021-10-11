@@ -2599,7 +2599,7 @@ async function createApp(ssrContext, config = {}) {
 
   const app = {
     head: {
-      "titleTemplate": "%s - Books Site",
+      "titleTemplate": "%s - Movies Site",
       "meta": [{
         "charset": "utf-8"
       }, {

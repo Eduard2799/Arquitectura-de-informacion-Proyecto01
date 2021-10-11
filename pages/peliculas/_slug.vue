@@ -19,7 +19,7 @@
      <div class="six columns">
        <h4>{{pelicula.title}}</h4>
 	   by <NuxtLink :to="'/directores/'+pelicula.directorId">{{director[0].name}}</NuxtLink><br>
-	   Edition: {{pelicula.edition}}; Copyright: {{pelicula.copyright}}; 
+	   Year: {{pelicula.year}}; Duration: {{pelicula.duration}}; 
 	   Language: {{pelicula.language}}; Pages: {{pelicula.pages}}<br>
 	   published by <NuxtLink :to="'/productoras/'+pelicula.productoraId">{{productora[0].name}}</NuxtLink><br><br>
 	   <b>Description</b><br>

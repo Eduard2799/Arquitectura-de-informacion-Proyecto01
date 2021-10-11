@@ -64,7 +64,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"titleTemplate":"%s - Books Site","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Meta description"}],"link":[{"rel":"stylesheet","href":"css\u002Fnormalize.css"},{"rel":"stylesheet","href":"css\u002Fskeleton.css"},{"rel":"icon","type":"image\u002Fpng","href":"images\u002Ffavicon.png"}],"style":[],"script":[]},
+    head: {"titleTemplate":"%s - Movies Site","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Meta description"}],"link":[{"rel":"stylesheet","href":"css\u002Fnormalize.css"},{"rel":"stylesheet","href":"css\u002Fskeleton.css"},{"rel":"icon","type":"image\u002Fpng","href":"images\u002Ffavicon.png"}],"style":[],"script":[]},
 
     router,
     nuxt: {

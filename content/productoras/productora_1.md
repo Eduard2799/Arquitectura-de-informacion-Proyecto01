@@ -1,11 +1,12 @@
 ---
 id: productora_1
-name: John Wiley & Sons
+name: Marvel Studios
 country: United States
 founded: 1807
 genere: 
-  - Academic
+  - Crimen
+  - Acción
 image: productoras/productora_1.png
 ---
 
-John Wiley & Sons, Inc., commonly known as Wiley, is an American multinational publishing company founded in 1807 that focuses on academic publishing and instructional materials. The company produces books, journals, and encyclopedias, in print and electronically, as well as online products and services,[1] training materials, and educational materials for undergraduate, graduate, and continuing education students.
+Marvel Studios, LLC​ es un estudio cinematográfico estadounidense que tiene su sede en los Walt Disney Studios de Burbank, el estudio es una filial de The Walt Disney Company. Marvel Studios es conocido por producir el Universo cinematográfico de Marvel, basado en los personajes de Marvel Comics.​

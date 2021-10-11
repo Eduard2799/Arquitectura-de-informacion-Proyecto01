@@ -14,7 +14,7 @@ collections:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Nationality", name: "nationality", widget: "string"}
       - {label: "Birth_year", name: "birth_year", widget: "number"}
-      - {label: "Fields", name: "fields", widget: "select", multiple: true,
+      - {label: "Programs", name: "programs", widget: "select", multiple: true,
          options: ["Database Systems", "Operating Systems", " Distributed computing",
           "Compilers","Data Structures"]}
       - {label: "Image", name: "image", widget: "image",
@@ -30,7 +30,7 @@ collections:
       - {label: "Country", name: "country", widget: "string"}
       - {label: "Founded", name: "founded", widget: "number"}
       - {label: "Genere", name: "genere", widget: "select", multiple: true,
-         options: ["Academic", "Education", " Computer Science"]}
+         options: ["Acción", "Aventura", "Drama", "Crimen", "Thriller","Ciencia fición"]}
       - {label: "Image", name: "image", widget: "image",
            media_folder: '/static/images/productoras'}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -41,8 +41,8 @@ collections:
     fields:
       - {label: "Id", name: "id", widget: "hidden", default: "pelicula_{{hour}}{{minute}}{{second}}"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Edition", name: "edition", widget: "string"}
-      - {label: "Copyright", name: "copyright", widget: "number"}
+      - {label: "Year", name: "year", widget: "number"}
+      - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Language", name: "language", widget: "string"}
       - {label: "Pages", name: "pages", widget: "number"}
       - {label: "director", name: "directorId", widget: "relation",

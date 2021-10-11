@@ -18,7 +18,7 @@
      <div class="six columns">
        <h4>{{director.name}}</h4>
 	   Nationality: {{director.nationality}}; Born: {{director.birth_year}}<br>
-	   Fields: {{director.fields}}<br><br>
+	   Programs: {{director.programs}}<br><br>
 	   <b>Biography</b><br>
 	    <nuxt-content :document="director" />
 	 </div>
