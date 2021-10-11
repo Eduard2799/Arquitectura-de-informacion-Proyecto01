@@ -1,0 +1,51 @@
+[
+  {
+    "name": "directores_index",
+    "path": "/directores_index",
+    "component": "C:\\\\Users\\\\eduar\\\\Desktop\\\\Proyecto_01\\\\pages\\\\directores_index.vue",
+    "chunkName": "pages/directores_index",
+    "_name": "_62a6cade"
+  },
+  {
+    "name": "peliculas_index",
+    "path": "/peliculas_index",
+    "component": "C:\\\\Users\\\\eduar\\\\Desktop\\\\Proyecto_01\\\\pages\\\\peliculas_index.vue",
+    "chunkName": "pages/peliculas_index",
+    "_name": "_088c650c"
+  },
+  {
+    "name": "productoras_index",
+    "path": "/productoras_index",
+    "component": "C:\\\\Users\\\\eduar\\\\Desktop\\\\Proyecto_01\\\\pages\\\\productoras_index.vue",
+    "chunkName": "pages/productoras_index",
+    "_name": "_62a46ed4"
+  },
+  {
+    "name": "directores-slug",
+    "path": "/directores/:slug?",
+    "component": "C:\\\\Users\\\\eduar\\\\Desktop\\\\Proyecto_01\\\\pages\\\\directores\\\\_slug.vue",
+    "chunkName": "pages/directores/_slug",
+    "_name": "_bbaf13e2"
+  },
+  {
+    "name": "peliculas-slug",
+    "path": "/peliculas/:slug?",
+    "component": "C:\\\\Users\\\\eduar\\\\Desktop\\\\Proyecto_01\\\\pages\\\\peliculas\\\\_slug.vue",
+    "chunkName": "pages/peliculas/_slug",
+    "_name": "_8e13bcbe"
+  },
+  {
+    "name": "productoras-slug",
+    "path": "/productoras/:slug?",
+    "component": "C:\\\\Users\\\\eduar\\\\Desktop\\\\Proyecto_01\\\\pages\\\\productoras\\\\_slug.vue",
+    "chunkName": "pages/productoras/_slug",
+    "_name": "_91fda152"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\eduar\\\\Desktop\\\\Proyecto_01\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f37e2a5e"
+  }
+]
